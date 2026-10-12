@@ -1,0 +1,18 @@
+/* Your custom styles go here.
+   Use Bootstrap classes first, and write your own CSS only when you need to. */
+
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url('zz.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  min-height: 100vh;
+}
+
+
+.dropdown-menu{
+  min-width: 5rem;
+}
